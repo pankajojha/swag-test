@@ -1,4 +1,5 @@
 build:
+	go mod tidy
 	swag init -g main.go
 	go build main.go
 
