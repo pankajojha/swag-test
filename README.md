@@ -1,5 +1,6 @@
 ### GOLANG Base setup
-# this is path of workspace, you can change to your workspace path - This allows to use sub folder path from go.mod as refrence 
+
+### this is path of workspace, you can change to your workspace path - This allows to use sub folder path from go.mod as refrence 
 export GOPATH=~/go/src/github.com/pankajojha  
  
 
